@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing" transform="translate(-811.000000, -191.000000)">
+            <g id="Group-6" transform="translate(637.000000, 182.000000)">
+                <g id="Group-5">
+                    <g id="Group-4" transform="translate(174.000000, 9.000000)">
+                        <g>
+                            <g id="Group-3" fill="#FFFFFF" fill-rule="nonzero">
+                                <g id="Group-9">
+                                    <path d="M13,15.6 C17.3067764,15.6 20.8,12.1013655 20.8,7.78803363 C20.8,3.4747018 17.3067247,0 13,0 C8.69327533,0 5.2,3.49863454 5.2,7.78803363 C5.2,12.0774327 8.69322361,15.6 13,15.6 Z M13,1.95 C16.217471,1.95 18.85,4.58248814 18.85,7.80002635 C18.85,11.0175645 16.217471,13.65 13,13.65 C9.78252898,13.65 7.15,11.0175119 7.15,7.79997365 C7.15,4.58243545 9.78247629,1.95 13,1.95 Z" id="Shape"></path>
+                                    <path d="M0.917888646,26 L25.0821114,26 C25.5944234,26 26,25.635699 26,25.1755249 C26,20.8613621 22.0936088,17.3333333 17.2692828,17.3333333 L8.73071721,17.3333333 C3.92775678,17.3333333 0,20.8421709 0,25.1755249 C0,25.635699 0.405576558,26 0.917888646,26 Z M8.73071721,18.9822835 L17.2692828,18.9822835 C20.7700974,18.9822835 23.6518645,21.3215361 24.1001722,24.3510084 L1.89982784,24.3510084 C2.34808938,21.3407273 5.22990256,18.9822835 8.73071721,18.9822835 Z" id="Shape"></path>
+                                </g>
+                            </g>
+                            <g id="Line" transform="translate(16.000000, 15.000000)" stroke="#FFD700" stroke-linecap="round" stroke-width="3">
+                                <path d="M6,11.9 L6,2.1"></path>
+                                <path d="M1.33333333,7 L10.6666667,7" id="Line-2"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

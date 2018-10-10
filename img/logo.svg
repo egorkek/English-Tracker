@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="182px" height="59px" viewBox="0 0 182 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo">
+            <g id="Group-7">
+                <g>
+                    <g id="Group">
+                        <g>
+                            <text id="Racker" font-family=".SFNSDisplay, .SF NS Display" font-size="36" font-weight="normal" fill="#FFDB17">
+                                <tspan x="58.458498" y="39">Racker</tspan>
+                            </text>
+                            <g id="Logo">
+                                <rect id="Rectangle" x="0" y="0" width="74.5849802" height="59"></rect>
+                                <g id="Group">
+                                    <rect id="Rectangle-3" fill="#FFFFFF" x="0" y="0" width="9.45443411" height="57.9649123"></rect>
+                                    <polygon id="Rectangle-3" fill="#FFFFFF" points="0 9.31578947 0 0 74.5849802 0 74.5849802 9.31578947"></polygon>
+                                    <polygon id="Rectangle-3" fill="#FFFFFF" points="0 33.122807 0 23.8070175 34.6662584 23.8070175 34.6662584 33.122807"></polygon>
+                                    <polygon id="Rectangle-3" fill="#FFFFFF" points="0 59 0 49.6842105 45.3557312 49.6842105 45.3557312 59"></polygon>
+                                    <rect id="Rectangle-3" fill="#FFDB17" x="49.3731559" y="0" width="9.45443411" height="59"></rect>
+                                </g>
+                                <rect id="Rectangle-4" fill="#FFDB17" x="34.6662584" y="0" width="39.9187218" height="9.31578947"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-2" transform="translate(62.000000, 43.000000)">
+                        <rect id="Rectangle" fill="#FFDB17" x="0" y="0" width="120" height="16"></rect>
+                        <text id="Prove-Your-Skills" font-family=".AppleSystemUIFont" font-size="10" font-weight="normal" fill="#282828">
+                            <tspan x="19" y="11">Prove Your Skills</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

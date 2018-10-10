@@ -1,0 +1,155 @@
+
+body{
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    margin: 0;
+    height: 100%;
+
+}
+*{
+    outline: none;
+}
+
+object{
+    pointer-events: none;
+}
+.logoA{
+    display: inline-block;
+    cursor: default;
+}
+
+
+aside{
+    background-color: #282828;
+    color: white;
+    padding-top: 4%;
+    padding-left: 5%;
+    border-right: #FFDB17 3px solid;
+
+
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    height: 100vh;
+}
+.aboutPlatform{
+    padding: 5%;
+    transition-duration: 0.5s;
+
+}
+
+.aboutPlatform h2 {
+    font-size: 22px;
+}
+.aboutPlatform h3{
+    font-size: 20px;
+}
+.aboutPlatform h4{
+    font-size: 19px;
+}
+
+.aboutPlatform p{
+    font-size: 19px;
+    font-weight: lighter;
+    padding-top: 2%;
+
+}
+.aboutPlatform div {
+    text-align: center;
+    padding-top: 6%;
+}
+.getStarted{
+    background: #FFDB17;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+    border: #979797 0.5px solid;
+    border-radius: 60px;
+    font-size: 19px;
+    font-weight: lighter;
+    min-width: 200px;
+
+}
+.getStarted:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+footer p{
+
+    font-size: 10px;
+    text-align: center;
+
+}
+footer{
+position: relative;
+padding-bottom: -200px;
+}
+#mainLanding{
+    justify-content: center;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.mainArticleLanding{
+    align-self: center;
+    justify-self: center;
+}
+.paddingTop{
+    padding-top: 8%;
+}
+.whiteGetStarted{
+    background: white;
+}
+.logInBackground{
+    background:url('../img/mainLanding.svg') no-repeat center center;
+    background-blend-mode: multiply;
+    background-size: contain;
+    display: grid;
+    transition: 1s;
+}
+.logInBackground2{
+    background:url('../img/mainLanding.svg') no-repeat center center;
+    background-blend-mode: multiply;
+    background-color: #616161;
+    background-size: contain;
+    display: grid;
+}
+#logInMenu{
+    display: grid;
+    align-items: center;
+    padding-left: 10%;
+    color: white;
+}
+#logInMenu h2{
+    font-weight: lighter;
+    font-size: 28px;
+    padding-bottom: 20px;
+}
+.input{
+    height: 6vh;
+    width: 30vw;
+    margin-bottom: 6vh;
+    border-radius: 30px;
+    border: none;
+    font-size: 20px;
+    padding-left: 20px;
+    font-weight: lighter;
+
+}
+.input::placeholder{
+    font-size: 18px;
+    padding-left: 5px;
+}
+#enter{
+    margin-right: 2vw;
+    padding-right: 10px;
+    padding-left: 10px;
+    min-width: 125px;
+}
+#cantLogIn{
+    background-color: #989898;
+    color: white;
+}
